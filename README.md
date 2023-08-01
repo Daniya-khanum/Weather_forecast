@@ -36,6 +36,3 @@ This is a simple Python program that interacts with the OpenWeatherMap API to pr
 
 To use this program, you need an API key from OpenWeatherMap. You can sign up for a free API key at https://openweathermap.org/api.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
